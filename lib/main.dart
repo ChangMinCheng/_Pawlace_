@@ -14,7 +14,7 @@ class Home extends StatelessWidget {
         backgroundColor: Colors.pink[400],
       ),
       body: Row(
-        mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+        mainAxisAlignment: MainAxisAlignment.spaceBetween,
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
           Text('Hello Nanaa'),
